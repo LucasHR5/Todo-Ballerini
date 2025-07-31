@@ -30,7 +30,8 @@ Aplicação simples de lista de tarefas (To-Do) desenvolvida para praticar **fun
    git clone https://github.com/LucasHR5/Todo-Ballerini.git
    
 ## 📷 Demonstração
-![aaaa](https://github.com/user-attachments/assets/0cc2ecde-aa69-44fa-af20-e047e5bf4d14)
+![aaaa](https://github.com/user-attachments/assets/b3b8a43a-f110-461e-a3b5-a9228cb4408e)
+
 
 
 
